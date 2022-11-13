@@ -10,15 +10,6 @@ body {
    font-family: "Poppins", Geneva, Verdana, sans-serif;
    background-color: #fefee3;
 }
-
-/** First Section*/
-* {
-   box-sizing: border-box;
-   margin: 0;
-   padding: 0;
-
-}
-
 ul {
    list-style-type: none;
 }
@@ -67,9 +58,8 @@ ul {
 }
 
 
-/** First Section > Herosection*/
+
 .header {
-   /* background-color:#230C33; */
    color: #000;
    min-height: 400px;
 }
@@ -148,7 +138,6 @@ ul {
 }
 
 .quotes {
-   /* background-color: rgb(179, 74, 91); */
    color: #000;
    min-height: 300px;
 
@@ -176,7 +165,6 @@ ul {
 .cta {
    display: flex;
    align-items: center;
-   /* background-color: rgb(235, 101, 123); */
    color: #000;
    min-height: 300px;
 }
